@@ -4,10 +4,10 @@
 
 # Site
 title: 爱材料
-subtitle: ''
+subtitle: '爱材料考研'
 description: ''
 keywords:
-author: John Doe
+author: Kite Kiss Perfect
 language: zh-CN
 timezone: ''
 
@@ -105,3 +105,8 @@ deploy:
   type: git
   repo: 
     site: ssh://git@47.117.136.118:2566/var/lovecl/hexo.git,master
+# Search
+## Docs: https://github.com/wzpan/hexo-generator-search
+search:
+  path: search.xml
+  field: post
