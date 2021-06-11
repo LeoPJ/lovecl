@@ -23,7 +23,7 @@
 <% } %>
 
 <% if (theme.socialLink.qq) { %>
-    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=<%= theme.socialLink.qq %>" class="tooltipped" target="_blank" data-tooltip="添加小助手QQ <%= theme.socialLink.qq %>" data-position="top" data-delay="50">
+    <a href="tencent://AddContact/?fromId=50&fromSubId=1&subcmd=all&uin=<%= theme.socialLink.qq %>" class="tooltipped" target="_blank" data-tooltip="添加小助手QQ：<%= theme.socialLink.qq %>" data-position="top" data-delay="50">
         <i class="fab fa-qq"></i>
     </a>
 <% } %>
@@ -47,7 +47,7 @@
 <% } %>
 
 <% if (theme.socialLink.weixin) { %>
-    <a href="<%= theme.socialLink.weixin %>" class="tooltipped" target="_blank" data-tooltip="添加小助手微信: <%= theme.socialLink.weixin %>" data-position="top" data-delay="50">
+    <a href="javascript:;" class="tooltipped" data-tooltip="搜索微信公众号: <%= theme.socialLink.weixin %>" data-position="top" data-delay="50">
         <i class="fab fa-weixin"></i>
     </a>
 <% } %>
