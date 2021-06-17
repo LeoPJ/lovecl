@@ -1,17 +1,14 @@
 # 爱材料新媒体矩阵
 
-![小助手微信](file:///C:/Users/24777/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
+<img src="https://img.likecailiao.cn/show/wechatxzs.jpg" alt="小助手微信" style="zoom:50%;" />
 
 <center>爱材料小助手微信
-
-![img](file:///C:/Users/24777/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+<img src="https://img.likecailiao.cn/show/wechatgzh.jpg" alt="img" style="zoom:80%;" />
 
 <center>爱材料考研公众号
-
-![QQ群](file:///C:/Users/24777/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg)
+<img src="https://img.likecailiao.cn/show/qq/jiaoliu1.jpg" alt="QQ群" style="zoom:80%;" />
 
 <center>爱材料考研交流群（QQ群）
-
 **关注爱材料考研微博，获取更多考研资讯：**[**https://weibo.com/u/7580337117**](https://weibo.com/u/7580337117)**；**
 
 **关注爱材料考研知乎，获取更多考研干货：**[**https://www.zhihu.com/people/ai-cai-liao-kao-yan**](https://www.zhihu.com/people/ai-cai-liao-kao-yan)**；**
