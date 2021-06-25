@@ -1,5 +1,5 @@
 ---
-title: 材料学秘籍|物质的组成（上）
+title: 材料学秘籍｜物质的组成（上）
 date: 2021-04-27 09:25:00
 img: https://img.likecailiao.cn/clxmj_wzdzc1/cover.jpg
 top: true
