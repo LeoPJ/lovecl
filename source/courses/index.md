@@ -1,5 +1,7 @@
 ---
-title: courses
+title: 课程规划
+top: false
+toc: false
 date: 2021-06-07 19:42:33
 ---
 
