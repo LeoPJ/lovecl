@@ -23,7 +23,7 @@ tags:
 
 原子**99%以上的质量都集中在原子核，**电子的质量占比很小，而原子核和电子占用的原子内部空间也很小，这就意味着原子内部有很大一部分区域是空旷的。
 
-<img src="https://img.likecailiao.cn/clxmj_wzdzc1/1.jpg" style="zoom:25%;" />
+<img src="https://img.likecailiao.cn/clxmj_wzdzc1/1.jpg" style="zoom:50%;" />
 
 
 
