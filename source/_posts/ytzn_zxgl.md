@@ -2,7 +2,7 @@
 title: 研途指南｜22考研工科生都能用的择校攻略
 date: 2021-06-10 09:25:00
 img: https://img.likecailiao.cn/ytzn_zxgl/cover.jpg
-top: true
+top: false
 summary: 你的考研小助手
 categories: 研途指南
 tags:
