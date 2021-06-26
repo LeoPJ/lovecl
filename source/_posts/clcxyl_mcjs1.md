@@ -3,12 +3,10 @@ title: 新板块来啦！《材料成型原理》名词解释，助你拿高分�
 date: 2021-05-01 09:25:00
 img: https://img.likecailiao.cn/clcxyl_mcjs1/cover.png
 top: true
-cover: true
-coverImg: https://img.likecailiao.cn/clcxyl_mcjs1/cover.png
 summary: 每次选取八个重点名词，附上最标准的答案,顺利拿下这块“大肥肉”。
-categories: 名词解释
+categories: 材料成型原理
 tags:
-  - 材料学
+  - 名词解释
   - 知识点汇总
 ---
 

@@ -1,15 +1,13 @@
 ---
-title: 5.20没钱买礼物？实现读研财富自由的保姆级指南在此！（封面图、标签、分类待修改）
+title: 5.20没钱买礼物？实现读研财富自由的保姆级指南在此！
 date: 2021-05-20 09:25:00
-img: https://img.likecailiao.cn/clxmj_wzdzc1/cover.jpg
-top: true
-cover: true
-coverImg: https://img.likecailiao.cn/clxmj_wzdzc1/cover.jpg
+img: https://img.likecailiao.cn/caifuziyou/cover.png
+top: false
 summary: 月薪5000，研究生真的可以做到!研究生财富自由指南，教大家轻松挣达不溜!
 categories: 研途指南
 tags:
-  - 材料学
-  - 知识点汇总
+  - 财富自由
+  - 其他
 ---
 
 > 它来了它来了！一年一度的5·20节日来了！

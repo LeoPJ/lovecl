@@ -1,15 +1,13 @@
 ---
-title: 研途指南｜22考研工科生都能用的择校攻略（封面图、标签待修改）
+title: 研途指南｜22考研工科生都能用的择校攻略
 date: 2021-06-10 09:25:00
-img: https://img.likecailiao.cn/clxmj_wzdzc1/cover.jpg
+img: https://img.likecailiao.cn/ytzn_zxgl/cover.jpg
 top: true
-cover: true
-coverImg: https://img.likecailiao.cn/clxmj_wzdzc1/cover.jpg
 summary: 你的考研小助手
 categories: 研途指南
 tags:
-  - 材料学
-  - 知识点汇总
+  - 择校
+  - 其他
 ---
 
 临近暑假，许多小伙伴即将投入到22考研的全面复习之中。择校就成为了非常重要的问题，可以说，学校的选择直接决定了今后的复习难度、时间规划，乃至长期发展方向，我们将从以下几个方面为大家梳理考研择校的正确姿势。

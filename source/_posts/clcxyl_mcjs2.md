@@ -2,13 +2,11 @@
 title: 材料成形原理名词解释 | 液态金属的结构和性质（下篇）
 date: 2021-05-08 09:25:00
 img: https://img.likecailiao.cn/clcxyl_mcjs1/cover.png
-top: true
-cover: true
-coverImg: https://img.likecailiao.cn/clcxyl_mcjs1/cover.png
-summary: 第—章重点完结,请注意查收和背诵哦！
-categories: 名词解释
+top: false
+summary: 第一章重点完结,请注意查收和背诵哦！
+categories: 材料成型原理
 tags:
-  - 材料学
+  - 名词解释
   - 知识点汇总
 ---
 

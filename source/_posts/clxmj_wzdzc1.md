@@ -3,8 +3,6 @@ title: 材料学秘籍｜物质的组成（上）
 date: 2021-04-27 09:25:00
 img: https://img.likecailiao.cn/clxmj_wzdzc1/cover.jpg
 top: true
-cover: true
-coverImg: https://img.likecailiao.cn/clxmj_wzdzc1/cover.jpg
 summary: 欢迎读者阅读“材料学秘籍”板块，在这里，我们将把《材料科学基础》重新拆分，加工整合成约50-60个通用知识点，供大家利用碎片化时间学习。
 categories: 材料学秘籍
 tags:

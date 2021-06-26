@@ -3,12 +3,10 @@ title: 热处理新知 | 回火组织转变干货大全
 date: 2021-05-20 09:25:00
 img: https://img.likecailiao.cn/rclxz_hhzzzb/cover.png
 top: true
-cover: true
-coverImg: https://img.likecailiao.cn/rclxz_hhzzzb/cover.png
 summary: 热处理新知来啦！记得查收喔~
-categories: 名词解释
+categories: 热处理新知
 tags:
-  - 材料学
+  - 热处理
   - 知识点汇总
 ---
 

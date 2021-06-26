@@ -1,15 +1,13 @@
 ---
-title: 考研如何择校？怎么平衡时间？你想知道的都在这里！（封面图、标签、分类待修改）
+title: 考研如何择校？怎么平衡时间？你想知道的都在这里！
 date: 2021-05-18 09:25:00
-img: https://img.likecailiao.cn/clxmj_wzdzc1/cover.jpg
+img: https://img.likecailiao.cn/xzshelp/cover.png
 top: true
-cover: true
-coverImg: https://img.likecailiao.cn/clxmj_wzdzc1/cover.jpg
 summary: 酷暑有冰可乐给我们带来凉爽，你的焦虑和问题交给小助手来解决吧!
 categories: 研途指南
 tags:
-  - 材料学
-  - 知识点汇总
+  - 择校
+  - 其他
 ---
 
 > 不知不觉就到了五月，大家距离考研那天又近了一步啦。最近，小助手在和各位准研究生们交流的时候，发现大家遇到了一些或大或小的问题。有的读者告诉小助手**自己选定了专业，但不知道怎么择校**；有的读者告诉小助手**最近考研复习和学校期末考试重合在了一起，不知道怎么安排时间，很焦虑。**
